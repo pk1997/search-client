@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/bin/node /usr/bin/yarn add react-timestamp
+
+PATH: 
+  /home/panvan_k/miniconda3/bin:/home/panvan_k/miniconda3/condabin:/home/panvan_k/.cargo/bin:/home/panvan_k/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  11.12.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/home/panvan_k/Documents/Search_app/node_modules/react-timestamp'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
